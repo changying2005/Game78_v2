@@ -1,0 +1,38 @@
+# === Unreal Engine (MINIMAL & SAFE) ===
+
+# UE temporary / generated
+Game78_UE54/Intermediate/*
+Game78_UE54/Saved/
+Game78_UE54/DerivedDataCache/
+
+# Build / binaries
+Game78_UE54/Binaries/
+Game78_UE54/Build/
+
+# === Heavy content (optional, for teamwork) ===
+Game78_UE54/Content/Huge_Assets/
+Game78_UE54/Content/CyberpunkOutskirts/
+Game78_UE54/Content/Dark_Medieval_Environment/
+Game78_UE54/Content/EasyFog/
+Game78_UE54/Content/Fantasy_Cave_Ruins/
+Game78_UE54/Content/FoliageTypes/
+Game78_UE54/Content/FuturisticMetaCity/
+Game78_UE54/Content/LevelPrototyping/
+Game78_UE54/Content/M4/
+Game78_UE54/Content/MassiveRoadPack/
+Game78_UE54/Content/Medieval_Buildings/
+Game78_UE54/Content/Medieval_Town/
+Game78_UE54/Content/modern-sci-fi_buildings/
+Game78_UE54/Content/MSPresets/
+Game78_UE54/Content/MysteryCave/
+Game78_UE54/Content/PostApocalypseCity/
+Game78_UE54/Content/ProceduralBuildingGenerator/
+Game78_UE54/Content/ProceduralCityCreator/
+Game78_UE54/Content/SnappyRoads/
+Game78_UE54/Content/Sci_Fi_City/
+Game78_UE54/Content/TrafficControlSystem/
+Game78_UE54/Content/Velocity_Cars_Pack/
+Game78_UE54/Content/VisusCity/
+Game78_UE54/Content/changying/OldGameMap
+Game78_UE54/Intermediate/CachedAssetRegistry_0.bin
+/Game78_UE54/Intermediate
