@@ -1,0 +1,38 @@
+# ===============================
+# Unreal Engine - Global Ignore
+# ===============================
+
+# UE cache / generated
+Game78_UE54/Binaries/
+Game78_UE54/Build/
+Game78_UE54/DerivedDataCache/
+Game78_UE54/Intermediate/
+Game78_UE54/Saved/
+
+# Visual Studio / Rider
+.vs/
+*.sln
+*.suo
+*.VC.db
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Ignore ALL Content by default
+# ===============================
+
+Game78_UE54/Content/**
+
+# ===============================
+# Whitelist Gameplay ONLY
+# ===============================
+
+!Game78_UE54/Content/GamePlay/
+!Game78_UE54/Content/GamePlay/**
+
+# ===============================
+# Optional: keep Config if needed
+# ===============================
+!Game78_UE54/Config/**
