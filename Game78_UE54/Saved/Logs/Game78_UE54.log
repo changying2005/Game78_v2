@@ -4051,3 +4051,12 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2026.01.02-07.20.11:390][822]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2026.01.02-07.20.11:682][822]LogExit: Editor shut down
 [2026.01.02-07.20.11:722][822]LogExit: Transaction tracking system shut down
+[2026.01.02-07.20.15:312][822]LogExit: Object subsystem successfully closed.
+[2026.01.02-07.20.15:350][822]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.02-07.20.17:088][822]LogOpenImageDenoise: OIDN shutting down
+[2026.01.02-07.20.17:121][822]MemoryProfiler: Shutdown
+[2026.01.02-07.20.17:121][822]NetworkingProfiler: Shutdown
+[2026.01.02-07.20.17:121][822]LoadingProfiler: Shutdown
+[2026.01.02-07.20.17:121][822]TimingProfiler: Shutdown
+[2026.01.02-07.20.17:967][822]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.02-07.20.17:967][822]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC92B8818-40E4-024C-16E7-2390B8F51E87%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=86060fa54ef1d91838f9969c7146cd8e%7C109d567ddb8b4bf9b005366ab949abcc%7Cd7ac00a2-079f-4202-aae3-92afa4398d13&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
