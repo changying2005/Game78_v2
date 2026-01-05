@@ -36,3 +36,8 @@ Game78_UE54/Content/VisusCity/
 Game78_UE54/Content/changying/OldGameMap
 Game78_UE54/Intermediate/CachedAssetRegistry_0.bin
 /Game78_UE54/Intermediate/**
+Game78_UE54/Saved/Telemetry/Telemetry.json
+Game78_UE54/Saved/Logs/Game78_UE54.log
+Game78_UE54/Saved/Logs/Game78_UE54_2.log
+Game78_UE54/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+*.json
