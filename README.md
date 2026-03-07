@@ -27,20 +27,6 @@
 
 <img width="531" height="267" alt="02349e3e5811a05bb542e660b9546661" src="https://github.com/user-attachments/assets/5815998d-0097-4169-8f53-f1f6d4f26156" />
 
-## 系统要求（开发环境）
-
-- Unreal Engine 5.x（推荐 5.3+）
-- Windows 10/11（开发平台）
-- 支持蓝图开发 + C++ 扩展（当前主要蓝图实现）
-
-## 如何运行 / 构建
-
-1. Clone 本仓库
-2. 用 Unreal Engine Launcher 打开项目（.uproject 文件）
-3. 等待 Shader 编译完成
-4. Play in Editor 或 Package 项目
-
-（后续可添加打包说明、控制键位表等）
 
 ## 截图画廊
 
